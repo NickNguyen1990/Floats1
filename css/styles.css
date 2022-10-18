@@ -1,0 +1,21 @@
+.before {
+  width: 350px;
+  float: left;
+  height: 350px;
+}
+
+.during {
+  float: left;
+
+}
+
+.after {
+  width: 350px;
+  float: left;
+  height: 350px;
+}
+
+img {
+  width: 250px;
+  height: 175px;
+}
